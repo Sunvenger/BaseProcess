@@ -1,0 +1,6 @@
+D:\Users\skkoryt\source\repos\BaseProcess\BaseProcess\bin\Debug\BaseProcess.dll
+D:\Users\skkoryt\source\repos\BaseProcess\BaseProcess\bin\Debug\BaseProcess.pdb
+D:\Users\skkoryt\source\repos\BaseProcess\BaseProcess\obj\Debug\BaseProcess.csprojAssemblyReference.cache
+D:\Users\skkoryt\source\repos\BaseProcess\BaseProcess\obj\Debug\BaseProcess.csproj.CoreCompileInputs.cache
+D:\Users\skkoryt\source\repos\BaseProcess\BaseProcess\obj\Debug\BaseProcess.dll
+D:\Users\skkoryt\source\repos\BaseProcess\BaseProcess\obj\Debug\BaseProcess.pdb
