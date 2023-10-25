@@ -47,7 +47,7 @@ namespace BigDataProcessor.Processes
 		{
 			if (path == "")
 			{
-				if (PathToLog == "") // žiadny patológ
+				if (PathToLog == "") // No path to log
 					PathToLog = GenerateLogPath();
 			}
 			else
